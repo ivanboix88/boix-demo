@@ -2501,7 +2501,7 @@ with st.sidebar:
 font-size:13px;
 font-weight:600;
                 margin-top:0;">
-                CANDIDATURA · STADLER RAIL
+                BOIX ERP
             </p>
         </div>
         """,
